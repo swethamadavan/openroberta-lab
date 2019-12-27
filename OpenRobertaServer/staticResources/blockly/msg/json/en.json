@@ -1,7 +1,7 @@
 {
 	"@metadata": {
 		"author": "Ellen Spertus <ellen.spertus@gmail.com>",
-		"lastupdated": "2019-12-27 11:01:54.883415",
+		"lastupdated": "2019-12-27 16:17:25.586937",
 		"locale": "en",
 		"messagedocumentation" : "qqq"
 	},
@@ -1609,6 +1609,7 @@
 	"SOURCE_CODE_EDITOR_CLOSE_CONFIRMATION": "All your changes will be lost!",
 	"CLEAR": "clear",
 	"ACCELEROMETER_TOOLTIP": "Represents an accelerometer.",
+	"POPUP_CREATE_BOOKMARK": "Create a bookmark now to save your robot selection!",
 	"GPS_TOOLTIP": "Represents a GPS receiver.",
 	"SENSOR_GPS_SENSEBOX": "GPS receiver",
 	"SENSOR_GPS_LATITUDE_GETSAMPLE_TOOLTIP_SENSEBOX": "Returns the latitude in degree.",
